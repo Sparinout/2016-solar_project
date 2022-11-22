@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ee83b35-4fb0-42e5-9a6f-154cc39b5e07" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/solar_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/solar_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solar_vis.py" beforeDir="false" afterPath="$PROJECT_DIR$/solar_vis.py" afterDir="false" />
+    <list default="true" id="4ee83b35-4fb0-42e5-9a6f-154cc39b5e07" name="Changes" comment="recalculate space object positions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,21 @@
       <option name="presentableId" value="Default" />
       <updated>1668498930760</updated>
     </task>
+    <task id="LOCAL-00001" summary="recalculate space object positions">
+      <created>1669099159606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669099159607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="recalculate space object positions">
+      <created>1669099534386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669099534386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="recalculate space object positions" />
+    <option name="LAST_COMMIT_MESSAGE" value="recalculate space object positions" />
   </component>
 </project>
